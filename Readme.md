@@ -1,5 +1,5 @@
 In the NuGet Console write:
 
-Enable-Migrations
-Add-Migration Initial
-Update-Database
+1. Enable-Migrations
+2. Add-Migration Initial
+3. Update-Database
